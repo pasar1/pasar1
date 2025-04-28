@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sam Pasarakonda
 
-<!--
-**pasar1/pasar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+🔭 Computer Science B.S. Candidate at University of Washington | Co-Founder @ AInspiring  
+🌱 Passionate about leveraging technology to transform healthcare through data-driven solutions and decentralized systems.  
+👯 Open to collaborating on projects involving data visualization, blockchain in healthcare, AI-driven tools, and software development.  
+🤝 Seeking opportunities in Software Engineering, Data Analysis, and Project Management internships.  
+📫 Reach me via:  
+- LinkedIn: [linkedin.com/in/sam-pasarakonda-991988243](https://www.linkedin.com/in/sam-pasarakonda-991988243/)  
+- Email: [vspasarakonda@gmail.com](mailto:vspasarakonda@gmail.com)
+🌐 Check out my portfolio: [sampasarakonda.github.io](https://sampasarakonda.github.io)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+I'm a Computer Science student at the University of Washington, co-founder of AInspiring, and an undergraduate researcher in decentralized computing. My work focuses on using technology to improve healthcare outcomes, from building AI-powered tools to implementing blockchain for secure medical data management. I thrive in collaborative, agile environments and enjoy working with tools like PowerBI, Tableau, Java, Python, and Spring Boot.
+
+## Skills  
+- **Technical**: Software Development, Data Analysis, System Design, Blockchain, Web3, Agile Methodologies  
+- **Tools**: PowerBI, Tableau, Miro, Java, Python, Spring Boot, Scratch  
+- **Soft Skills**: Cross-Functional Collaboration, Technical Writing, Educational Leadership  
+
+## Featured Projects  
+- **Elgoog - AI Search Engine**: A high-performance search engine built with Java and Spring Boot, designed for rapid phrase matching in academic resources.  
+- **NAMI Data Outreach**: Utilized PowerBI and Excel to create interactive dashboards for NAMI Eastside, optimizing community engagement strategies.  
+
+## Get Involved  
+If you're interested in healthcare innovation, decentralized systems, or data visualization, let's connect! Feel free to reach out for collaboration or to share feedback on my work.  
