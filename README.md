@@ -20,6 +20,7 @@ I'm a Computer Science student at the University of Washington, co-founder of AI
 - **Soft Skills**: Cross-Functional Collaboration, Technical Writing, Educational Leadership  
 
 ## Featured Projects  
+- **HeroLink - Gamified Community Engagment Platform**: Developed a full-stack web app using React and Firebase to connect users with verified volunteer events, implementing real-time participation tracking and A/B tested features to boost user engagement and retention.  
 - **Elgoog - AI Search Engine**: A high-performance search engine built with Java and Spring Boot, designed for rapid phrase matching in academic resources.  
 - **NAMI Data Outreach**: Utilized PowerBI and Excel to create interactive dashboards for NAMI Eastside, optimizing community engagement strategies.  
 
