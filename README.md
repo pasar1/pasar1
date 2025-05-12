@@ -16,7 +16,7 @@ I'm a Computer Science student at the University of Washington, co-founder of AI
 
 ## Skills  
 - **Technical**: Software Development, Data Analysis, System Design, Blockchain, Web3, Agile Methodologies  
-- **Tools**: PowerBI, Tableau, Miro, Java, Python, Spring Boot, Scratch  
+- **Tools**: PowerBI, Tableau, Miro, Java, Python, Spring Boot 
 - **Soft Skills**: Cross-Functional Collaboration, Technical Writing, Educational Leadership  
 
 ## Featured Projects  
