@@ -4,7 +4,7 @@ Hi there 👋
 
 🔭 Computer Science B.S. Candidate at University of Washington | Co-Founder @ AInspiring  
 🌱 Passionate about leveraging technology to transform healthcare through data-driven solutions and decentralized systems.  
-👯 Open to collaborating on projects involving data visualization, blockchain in healthcare, AI-driven tools, and software development.  
+👨‍💻 Open to collaborating on projects involving data visualization, blockchain in healthcare, AI-driven tools, and software development.  
 🤝 Seeking opportunities in Software Engineering, Data Analysis, and Project Management internships.  
 📫 Reach me via:  
 - LinkedIn: [linkedin.com/in/sam-pasarakonda-991988243](https://www.linkedin.com/in/sam-pasarakonda-991988243/)  
