@@ -24,5 +24,5 @@ I'm a Computer Science student at the University of Washington, co-founder of AI
 - **Elgoog - AI Search Engine**: A high-performance search engine built with Java and Spring Boot, designed for rapid phrase matching in academic resources.  
 - **NAMI Data Outreach**: Utilized PowerBI and Excel to create interactive dashboards for NAMI Eastside, optimizing community engagement strategies.  
 
-## Get Involved  
+## Interests
 If you're interested in healthcare innovation, decentralized systems, or data visualization, let's connect! Feel free to reach out for collaboration or to share feedback on my work.  
