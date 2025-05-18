@@ -9,7 +9,7 @@ Hi there 👋
 📫 Reach me via:  
 - LinkedIn: [linkedin.com/in/sam-pasarakonda-991988243](https://www.linkedin.com/in/sam-pasarakonda-991988243/)  
 - Email: [vspasarakonda@gmail.com](mailto:vspasarakonda@gmail.com)
-🌐 Check out my portfolio: [sampasarakonda.github.io](https://sampasarakonda.github.io)  
+- 🌐 Check out my portfolio: [sampasarakonda.github.io](https://sampasarakonda.github.io)  
 
 ## About Me  
 I'm a Computer Science student at the University of Washington, co-founder of AInspiring, and an undergraduate researcher in decentralized computing. My work focuses on using technology to improve healthcare outcomes, from building AI-powered tools to implementing blockchain for secure medical data management. I thrive in collaborative, agile environments and enjoy working with tools like PowerBI, Tableau, Java, Python, and Spring Boot.
