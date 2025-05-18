@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-🔭 Computer Science B.S. Candidate at University of Washington | Co-Founder @ AInspiring  
+🔭 Bachelor of Science in Computer Science @ University of Washington | Co-Founder @ AInspiring  
 🌱 Passionate about leveraging technology to transform healthcare through data-driven solutions and decentralized systems.  
 👨‍💻 Open to collaborating on projects involving data visualization, blockchain in healthcare, AI-driven tools, and software development.  
 🤝 Seeking opportunities in Software Engineering, Data Analysis, and Project Management internships.  
@@ -25,4 +25,4 @@ I'm a Computer Science student at the University of Washington, co-founder of AI
 - **NAMI Data Outreach**: Utilized PowerBI and Excel to create interactive dashboards for NAMI Eastside, optimizing community engagement strategies.  
 
 ## Interests
-If you're interested in healthcare innovation, decentralized systems, or data visualization, let's connect! Feel free to reach out for collaboration or to share feedback on my work.  
+If you're interested in healthcare innovation, decentralized systems, or data visualization, let's connect! Feel free to reach out for collaboration or for any feedback you might have on my work.  
